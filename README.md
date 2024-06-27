@@ -1,2 +1,3 @@
-# cdw_review
-This is a supplementary file for the rapid review of CDW
+# Challanges and Opportunities of Clinical Data Warehousing
+
+This repository provides an additional xlsx file listing references and analytical categories 
